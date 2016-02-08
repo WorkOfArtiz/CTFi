@@ -18,7 +18,9 @@ Demonstration
 S -> a
 S -> bc
 S -> TT
+S -> lambda
 T -> aa
+T -> λ
 ```
 
 Note that rules can be entered via commandline or file

@@ -1,0 +1,6 @@
+# Production rules for 
+S -> E 
+S -> O
+S -> lambda
+E -> aEa | bEb | lambda
+O -> aOa | bOb | a | b 
